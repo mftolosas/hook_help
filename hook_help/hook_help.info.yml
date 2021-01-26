@@ -1,0 +1,6 @@
+name: Help Module
+type: module
+description: 'hook_help'
+package: Mafe
+version: '8.0.0'
+core: 8.x
